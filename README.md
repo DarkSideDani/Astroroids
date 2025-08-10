@@ -1,2 +1,3 @@
-# Boot.dev Asteroids Python Game
+# Astroroids 🚀
 
+![Astroroids Thumbnail](assets/Astroroids.png)

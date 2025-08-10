@@ -2,8 +2,6 @@
 
 ![Astroroids Thumbnail](/Astroroids.png)
 
-````markdown
-
 This is a classic Asteroids-style arcade game built using Python and Pygame.
 
 ## How the Game Works
